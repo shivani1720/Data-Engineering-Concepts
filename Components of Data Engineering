@@ -1,4 +1,4 @@
-SEVEN KEY COMPONENTS OF DATA ENGINEERING
+1. SEVEN KEY COMPONENTS OF DATA ENGINEERING
 DATA SOURCES - API, DB, Logs, Files, Stream
 DATA INGESTION - BATCH, REAL TIME
 DATA PROCESSING - ETL
@@ -6,3 +6,8 @@ DATA STORAGE - DATA LAKES, DATA WAREHOUSE, NOSQL, RDBMS
 DATA ORCHESTRATION - WORKFLOW(Airflow), Schduling (Luigi)
 DATA MANAGEMENT - Data Quality, Data governance, MDM
 DATA ANALYTICS AND BI - Analysis, Visualization and Reporting
+
+2. ROLE OF DE IN DATA PIPELINE
+- Key role is to design and build the infra of data pipeline ensuring efficient 
+and reliable movement of data from source to destination
+- This includes developing architectures, building data pipelines, and ensuring Data quality, security and scalability
