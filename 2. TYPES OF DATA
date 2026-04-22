@@ -1,0 +1,4 @@
+1. Data can be categorized into several types based on its characteristics including STRUCTURED, SEMI-STRUCTURED and UNSTRUCTURED data
+2. STRUCTURED DATA is organized and formatted suvh as numbers, dates etc. 
+3. SEMI STRUCTURED DATA has some organization like XML, JSON
+4. UNSTRUCTURED DATA lacks organizaton and formatting such as videos, images, audio files etc
